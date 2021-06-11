@@ -32,6 +32,26 @@ Author: Torrekie
 Icon: https://c9y6h.github.io/myrepo/icon.png
 Name: 哔哩哔哩屏蔽越狱
 
+Package: com.c9y6h.diary
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Litten
+Installed-Size: 5480
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.mrgcgamer.libgcuniversal, com.peterdev.libpddokdo
+Conflicts: hi.my.name.is.ubik.kalm, com.peterdev.grupi
+Filename: ./debs/com.c9y6h.diary_1.0_iphoneos-arm.deb
+Size: 2523756
+MD5sum: 2757fc55010cc700729ea3de9b1441c0
+SHA1: a353a2a92ff0f72fd249f4c1a24b72ce54ce8119
+SHA256: 4cf12aa20dc5d90011a87297e8baf4e8b93c38240e1fc31a624a3ca6e3cd049f
+Section: Tweaks
+Description: Dear diary..
+Author: Litten
+Depiction: https://repo.litten.love/depictions/dry/index.html
+Icon: https://repo.litten.love/depictions/dry/assets/icon.png
+Name: Diary win10锁屏汉化版
+Sileodepiction: https://repo.litten.love/depictions/dry/dry.json
+
 Package: com.c9y6h.nfcwriterxs
 Version: 3.2-77+debug
 Architecture: iphoneos-arm
