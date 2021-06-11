@@ -1,0 +1,13 @@
+{
+  "class": "FeaturedBannersView",
+  "itemSize": "{296, 148}",
+  "itemCornerRadius": 10,
+  "banners": [
+    {
+        "url": "https://c9y6h.github.io/myrepo/1.png",
+        "title": "orion",
+        "package": "com.c9y6h.orion",
+        "hideShadow": false
+    },
+  ]
+}

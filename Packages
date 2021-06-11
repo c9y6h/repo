@@ -1,0 +1,169 @@
+Package: com.c9y6h.bdpan
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: c9y6h
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.c9y6h.bdpan_0.0.1_iphoneos-arm.deb
+Size: 3776
+MD5sum: 346add85db7ec1f444a371a7f26adde2
+SHA1: 9fb60b5216c1af69b2f4b9c5fe734f90f60fc30c
+SHA256: 9b6ba7697b0fa22bfa10bdd64a59e9b5d31a9e2a8ccbffaa663e9c105ce0fcf4
+Section: Tweaks
+Description: 破解百度网盘本地vip以及精简界面
+Author: c9y6h
+Icon: https://c9y6h.github.io/myrepo/icon.png
+Name: 百度网盘+
+
+Package: com.c9y6h.dejailbili
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: c9y6h
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.c9y6h.dejailbili_0.0.1_iphoneos-arm.deb
+Size: 5328
+MD5sum: 09597826f68c9749fdde02cd59714864
+SHA1: 63cc6605088010a542a6574c86857dcd4a6e8197
+SHA256: 29e66e475994eb6368f3f6ba8ff2fb8cdf60b255f241769f30eea8214b16ae0e
+Section: Tweaks
+Description: 解除哔哩哔哩内购限制
+Author: Torrekie
+Icon: https://c9y6h.github.io/myrepo/icon.png
+Name: 哔哩哔哩屏蔽越狱
+
+Package: com.c9y6h.nfcwriterxs
+Version: 3.2-77+debug
+Architecture: iphoneos-arm
+Maintainer: Elias Limneos
+Depends: firmware (>= 11.0), mobilesubstrate, net.limneos.libbulletin
+Conflicts: net.limneos.nfcwriterx
+Filename: ./debs/com.c9y6h.nfcwriterxs_3.2-77+debug_iphoneos-arm.deb
+Size: 756428
+MD5sum: fe220860a50b6d539a7d08e8f9e9063a
+SHA1: a534167c23f061c662a8dede344fc56ca79744f5
+SHA256: 3d974401c86a5a5c3a14a82a8753694db854e0f94c1571b78303a6f4d21a8f9f
+Section: Tweaks
+Description: 激活ios设备nfc功能
+Author: Elias Limneos
+Icon: https://c9y6h.github.io/myrepo/icon.png
+Name: NFCWriter XS汉化破解版
+
+Package: com.c9y6h.ngpj
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: c9y6h
+Installed-Size: 144
+Depends: mobilesubstrate
+Filename: ./debs/com.c9y6h.ngpj_0.0.1_iphoneos-arm.deb
+Size: 7656
+MD5sum: d165ca0238a9dd04ae6233754da62bcd
+SHA1: 7cad779ce7202c9973fff572b7cb1333cc7e01d6
+SHA256: 137bedadd7f759ac560d89ee072d665947ef3347071c125b25830eeacd76b377
+Section: Tweaks
+Description: 顾名思义，通常适用于一些单机app
+Author: c9y6h
+Icon: https://c9y6h.github.io/myrepo/icon.png
+Name: 内购破解
+
+Package: com.c9y6h.nopassafterrespringsafe
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Brend0n <brendonjkding@126.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.c9y6h.nopassafterrespringsafe_0.0.2_iphoneos-arm.deb
+Size: 6760
+MD5sum: 1c784288baab0ec3b8278b2a798572dd
+SHA1: f40979f7235ca2035a44735eb56c1e42386f0d77
+SHA256: 0112887c687250df8ebc92eb95e7060f2b225c0ad75dd04bf7bcd0a5c31a13e2
+Section: Tweaks
+Description: 注销后无需输入密码直接进入桌面
+Author: Brend0n <brendonjkding@126.com>
+Icon: https://c9y6h.github.io/myrepo/icon.png
+Name: NoPassAfterRespring (Safe)
+
+Package: com.c9y6h.orion
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: c9y6h
+Installed-Size: 8777
+Depends: firmware (>=13.0), firmware (<<15.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.16), com.opa334.ccsupport, net.limneos.libbulletin (>= 0.1-158), firmware (<=13.7) | com.opa334.libundirect (>= 1.1.1), com.spark.libsparkcolourpicker (>= 1.0.2) | com.creaturesurvive.libcscolorpicker (>= 1.0.1) | ws.hbang.alderis (>= 1.1.2), com.spark.libsparkapplist
+Filename: ./debs/com.c9y6h.orion_1.2_iphoneos-arm.deb
+Size: 1896596
+MD5sum: 590aa53c5a637fbc8ba5eea8daff4cbb
+SHA1: 68e875389d3058a69c0d4dc2056484b0fe878c41
+SHA256: dceaf9260907549111ff7740de5159035545cc996c11c9f7a4c1bf43422fce7e
+Section: Tweaks
+Description: 一款神级系统调整插件，已汉化处理
+Author: John Zarogiannis <johnzrgnns@gmail.com>
+Icon: https://chariz.com/cdn/icon/orion/icon@3x.png
+Name: Orion汉化版
+
+Package: com.c9y6h.wyy
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: c9y6h
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.c9y6h.wyy_0.0.1_iphoneos-arm.deb
+Size: 3388
+MD5sum: d0ac4569201c14c96a163b0c33c084a7
+SHA1: 949b9bea94ff54f147dee755dda53fbd7ef0f5ef
+SHA256: bec040864b2421f8532602faa040b23ba66a370b75497142b7118e6fac2747f1
+Section: Tweaks
+Description: 去广告以及破解会员音效
+Author: c9y6h
+Icon: https://c9y6h.github.io/myrepo/icon.png
+Name: 网易云音乐+
+
+Package: com.c9y6h.xxy
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: c9y6h
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.c9y6h.xxy_0.0.1_iphoneos-arm.deb
+Size: 2864
+MD5sum: 7c88fed848f57e05ea07b50ddc04309a
+SHA1: bbea4f700bde6d69b7c826cabe159e2c56e3751a
+SHA256: 8e3e507d2ef7fc85ec2d992d043e6ba4ff8da44b38fa67d9981ee6c4f8566b83
+Section: Tweaks
+Description: 学小易绕过越狱检测
+Author: c9y6h
+Icon: https://c9y6h.github.io/myrepo/icon.png
+Name: 学小易+
+
+Package: com.c9y6h.ydfyg
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: c9y6h
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.c9y6h.ydfyg_0.0.1_iphoneos-arm.deb
+Size: 3052
+MD5sum: 1f5fb7b5cc6a98aebea433e2e304b091
+SHA1: de5c8aa9be46d2a9918f97f5baf04cef0696a70e
+SHA256: 1ae2f51f5530d711d53165028bea3aaf0fc0dbed85fba0e76c491e6ab9117562
+Section: Tweaks
+Description: 去所有广告以及精简界面
+Author: c9y6h
+Icon: https://c9y6h.github.io/myrepo/icon.png
+Name: 有道翻译官+
+
+Package: com.c9y6h.zkzs
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: c9y6h
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.c9y6h.zkzs_0.0.1_iphoneos-arm.deb
+Size: 2856
+MD5sum: cd3d8b443c71f60fa6b6a34c9c2a45ff
+SHA1: d5a9faa350a2a5e3b617c79811abbf909b9895a4
+SHA256: 7de63007143b905f832c93f633f0a23f1316c47fc3a9122428d84178543831a4
+Section: Tweaks
+Description: ZK助手去广告
+Author: c9y6h
+Icon: https://c9y6h.github.io/myrepo/icon.png
+Name: Zk助手+
+
