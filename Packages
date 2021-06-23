@@ -15,23 +15,6 @@ Author: c9y6h
 Icon: https://repo.c9y6h.top/icon.png
 Name: 百度网盘+
 
-Package: com.c9y6h.dejailbili
-Version: 0.0.1
-Architecture: iphoneos-arm
-Maintainer: c9y6h
-Installed-Size: 136
-Depends: mobilesubstrate
-Filename: ./debs/com.c9y6h.dejailbili_0.0.1_iphoneos-arm.deb
-Size: 5316
-MD5sum: 900e879581bcfefc14ae5c36bd166dd3
-SHA1: 4065327f908521e28ceca6f2fb5ccff91a97befe
-SHA256: d88dafef7a5448686621084224c4f236882039a5c4ab1ee5afcf292fdb492f8c
-Section: Tweaks
-Description: 解除哔哩哔哩内购限制
-Author: Torrekie
-Icon: https://repo.c9y6h.top/icon.png
-Name: 哔哩哔哩屏蔽越狱
-
 Package: com.c9y6h.diary
 Version: 1.0
 Architecture: iphoneos-arm
@@ -85,22 +68,6 @@ Description: 顾名思义，通常适用于一些单机app
 Author: c9y6h
 Icon: https://repo.c9y6h.top/icon.png
 Name: 内购破解
-
-Package: com.c9y6h.nopassafterrespringsafe
-Version: 0.0.2
-Architecture: iphoneos-arm
-Maintainer: Brend0n <brendonjkding@126.com>
-Depends: mobilesubstrate
-Filename: ./debs/com.c9y6h.nopassafterrespringsafe_0.0.2_iphoneos-arm.deb
-Size: 6764
-MD5sum: a566b594f2e0ed70628196613aad9939
-SHA1: 30ca7aa2ac6b7252fa700cb2b2c9cac2e71a2e52
-SHA256: 5dd8a8d09a899dada711a14240a0efb710f25253cc09891f16eb5e95d21e2b59
-Section: Tweaks
-Description: 注销后无需输入密码直接进入桌面
-Author: Brend0n <brendonjkding@126.com>
-Icon: https://repo.c9y6h.top/icon.png
-Name: NoPassAfterRespring (Safe)
 
 Package: com.c9y6h.orion
 Version: 1.2
