@@ -1,4 +1,5 @@
-  "class": "FeaturedBannersView",
+ {
+ "class": "FeaturedBannersView",
   "itemSize": "{296, 148}",
   "itemCornerRadius": 10,
   "banners": [
@@ -19,6 +20,6 @@
         "title": "有道翻译官+",
         "package": "com.c9y6h.ydfyg",
         "hideShadow": false
-    },
+    }
   ]
-
+}
