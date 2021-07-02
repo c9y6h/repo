@@ -86,6 +86,23 @@ Author: John Zarogiannis <johnzrgnns@gmail.com>
 Icon: https://chariz.com/cdn/icon/orion/icon@3x.png
 Name: Orion汉化版
 
+Package: com.c9y6h.txsjgj
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: c9y6h
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.c9y6h.txsjgj_0.0.1_iphoneos-arm.deb
+Size: 3514
+MD5sum: 29ebd27b1067bb4fc20b07c95e660b88
+SHA1: 89624b62425c3d1a5ee7eb7bbc130339fdf9e42b
+SHA256: b921c7cb47cd9a6eb2630caf1f7e787b964ec7a971601e96cb13bef8985307ea
+Section: Tweaks
+Description: 去开屏广告以及精简界面
+Author: c9y6h
+Icon: https://repo.c9y6h.top/icon.png
+Name: 腾讯手机管家+
+
 Package: com.c9y6h.wyy
 Version: 0.0.1
 Architecture: iphoneos-arm
