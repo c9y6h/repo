@@ -1,3 +1,60 @@
+Package: com..c9y6h.swipeselection
+Version: 1.5.3
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: ./debs/com.c9y6h.swipeselection_1.5.deb
+Size: 21496
+MD5sum: 42bd9d969d78968abd51958609f41fa1
+SHA1: 9b6705b7a3b3c817281744049b7787697ad303bc
+SHA256: b614cf52de177e1cb920bbbbdd420e5ee37a027c8f047cb10605c92e269b9a4e
+Section: 键盘
+Description: 键盘内滑动快捷移动文字光标
+Author: Kyle Howells
+Depiction: https://repo.c9y6h.top/ms.html
+Icon: https://repo.c9y6h.top/icon.png
+Name: SwipeSelection
+Sileodepiction: https://repo.c9y6h.top/ms.json
+
+Package: com.c9y6h.alipaynoads
+Version: 1.1-5.1
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 356
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debs/com.c9y6h.alipaynoads_1.1-5.deb
+Size: 80992
+MD5sum: 6af6ced7d14ca90247cf20a5e753083f
+SHA1: 776846516a67f407d03d604d6f537d26addab825
+SHA256: 23e4360161bd95f740d6770406e6b9d81340585136794ef297060c550c7338ec
+Section: 应用
+Description: 支付宝去除首页推荐，去除底部理财和口碑选项和红点等，理财是不可能理财的，只有收收钱勉强维持生活，增加消息页面摇一摇一键已读消息
+Author: Netskao
+Depiction: https://repo.c9y6h.top/ms.html
+Icon: https://repo.c9y6h.top/icon.png
+Name: 支付宝 NoAds
+Sileodepiction: https://repo.c9y6h.top/ms.json
+
+Package: com.c9y6h.appdata
+Version: 1.3.6-5
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 976
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.c9y6h.appdata_1.3.deb
+Size: 203424
+MD5sum: f7d608999b3350f944cfcb3d93f56e23
+SHA1: 7755548802f66a59ab23accecbed0457e95a9e9a
+SHA256: c57a796aa93f47b314ffb0c20cf53678e3eca5dd138cef6b57dcf98cd8e84273
+Section: 系统
+Description: 桌面上滑或下滑图标或3D长按选择即可唤出桌面应用快捷工具，类似IconTool，此版本由站长完整汉化，修改优化:增加支持向下滑动，增加查看应用加密状态，增加面板可选去除分割线，修改原版卸载应用为真实卸载不保留数据，修复原版更多信息页面长按复制的信息错误问题，修改原版在非AppStore下载的应用唤出时无法使用清除数据/重置权限/卸载应用(修改后仅在系统应用上禁止)
+Author: Fouad Raheb
+Depiction: https://repo.c9y6h.top/ms.html
+Icon: https://repo.c9y6h.top/icon.png
+Name: AppData
+Sileodepiction: https://repo.c9y6h.top/ms.json
+
 Package: com.c9y6h.bdpan
 Version: 0.0.1
 Architecture: iphoneos-arm
@@ -15,6 +72,64 @@ Author: c9y6h
 Depiction: https://repo.c9y6h.top/ms.html
 Icon: https://repo.c9y6h.top/icon.png
 Name: 百度网盘+
+Sileodepiction: https://repo.c9y6h.top/ms.json
+
+Package: com.c9y6h.bilibilinoads
+Version: 1.4-6
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 424
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debs/com.c9y6h.bilibilinoads_1.deb
+Size: 115572
+MD5sum: c90664e343b56bf93f4d1a0950b154e7
+SHA1: 887b33ea20c7d6f58ce42eaf6cb40fc5286d8fa3
+SHA256: 12d70157a7f8087d6db3ae6a6ab8a82c14684f40f2e348c9249c3b20c35d7c96
+Section: 应用
+Description: 哔哩哔哩，哔哩哔哩概念去除启动广告，去除首页推荐视频中的广告和直播和顶部广告，去除播放窗口下方随机出现的广告，去除播放页面推荐视频中随机出现的广告和课程，去除动态信息流中的广告，去除青少年提示，禁用越狱检测(检测状态表现为购买大会员开通失败)，可选禁用底部按钮，可选禁用我的页面板块等，详情前往哔哩哔哩设置页面右上角设置
+Author: Netskao
+Depiction: https://repo.c9y6h.top/ms.html
+Icon: https://repo.c9y6h.top/icon.png
+Name: 哔哩哔哩 NoAds
+Sileodepiction: https://repo.c9y6h.top/ms.json
+
+Package: com.c9y6h.ccpower
+Version: 1.8-8
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 614
+Depends: firmware (>= 11.0), mobilesubstrate, com.opa334.ccsupport (>= 1.3)
+Filename: ./debs/com.c9y6h.ccpower_1.8-8_iphoneos-arm.deb
+Size: 92068
+MD5sum: b9d1af50e784badb489e430d077a87ff
+SHA1: 3ef79549e47451c851feb50a906b573009e814b4
+SHA256: 5a387e4df4d89727f8adace400f2657260aa5f7b030f04c8b6e481502431f210
+Section: 插件
+Description: 通过控制中心快捷关机，重启，注销，软重启，安全模式，重建桌面，所有操作均有二次确定，显示电池健康百分比，显示电池循环次数，显示开机时间，显示设备总空间和可用空间，显示设备总运存和可用运存，支持iOS11-14
+Author: Netskao <netskao@gmail.com>
+Depiction: https://repo.c9y6h.top/ms.html
+Icon: https://repo.c9y6h.top/icon.png
+Name: CCPower
+Sileodepiction: https://repo.c9y6h.top/ms.json
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.c9y6h.cnnoads
+Version: 1.1-9
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 352
+Depends: firmware (>= 11.0), mobilesubstrate
+Filename: ./debs/com.c9y6h.cnnoads_1.deb
+Size: 79268
+MD5sum: 6095ba526ca9eab140581dcbfa5e37ce
+SHA1: 4435447f675dd93cc4f6604b641a773a2940552e
+SHA256: 823a661530cf584474614973671025b9d12cfc7339c7d7f4cce0d4309bb4f764
+Section: 应用
+Description: 菜鸟去除启动广告，去除列表推荐广告，去除顶部广告，去除随机悬浮推荐横幅等
+Author: Netskao
+Depiction: https://repo.c9y6h.top/ms.html
+Icon: https://repo.c9y6h.top/icon.png
+Name: 菜鸟 NoAds
 Sileodepiction: https://repo.c9y6h.top/ms.json
 
 Package: com.c9y6h.diary
@@ -37,6 +152,27 @@ Icon: https://repo.c9y6h.top/icon.png
 Name: Diary汉化版
 Sileodepiction: https://repo.c9y6h.top/ms.json
 
+Package: com.c9y6h.dockx
+Version: 2.3.2
+Architecture: iphoneos-arm
+Maintainer: udevs
+Installed-Size: 1464
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap (>= 1.0.2), firmware(>=12.0), com.spark.libsparkcolourpicker
+Conflicts: com.cpdigitaldarkroom.barmoji, com.restiveconch.actionbar
+Filename: ./debs/com.c9y6h.dockx_2.3.2_iphoneos-arm.deb
+Size: 293392
+MD5sum: 743c7ac5afc20db8e9dd090ab56c356a
+SHA1: 94fb889236ee3a39d40af288ce8fc723641e430f
+SHA256: 2a7da5695a4fda00a02688a66e67712292999d814f0626e90d1e81d73e40a348
+Section: 键盘
+Description: 键盘底座添加粘贴板快捷方式
+Author: udevs
+Depiction: https://repo.c9y6h.top/ms.html
+Icon: https://repo.c9y6h.top/icon.png
+Name: DockX键盘增强
+Sileodepiction: https://repo.c9y6h.top/ms.json
+Sponsor: udevs
+
 Package: com.c9y6h.dra1n
 Version: 1.4.3
 Architecture: iphoneos-arm
@@ -45,15 +181,113 @@ Installed-Size: 4000
 Depends: mobilesubstrate, firmware(>=12.2) | org.swift.libswift (>=5.0), ws.hbang.common,preferenceloader, com.cokepokes.libnotifications (>= 0.2-2)
 Conflicts: com.megadev.dra1n, com.amywhile.dra1n
 Filename: ./debs/com.c9y6h.dra1n_1.4.3_iphoneos-arm.deb
-Size: 1763796
-MD5sum: c7a10e9e1f888293a5f78bc3a7e0e9ad
-SHA1: 7867581bad22c8a39202394d482d513b5efe607e
-SHA256: f71c3034dca4f6b07ced70f63a6482efb6418bfc128bb2c9734112b0253c7120
+Size: 1763532
+MD5sum: 4272dbe30b9c829482122b1da5008ee6
+SHA1: cc1a9601b59989503c73eb6670702477632a0a46
+SHA256: a941a72dbc1b84e300a4ebc5b8b1507ffbcc7e47f957c36f167e953a2426b22e
 Section: 插件
 Description: 找出耗电的插件
 Author: MegaDev & Amy While
 Depiction: https://repo.c9y6h.top/ms.html
+Icon: https://repo.c9y6h.top/icon.png
 Name: Dra1n汉化版
+Sileodepiction: https://repo.c9y6h.top/ms.json
+
+Package: com.c9y6h.flexlist
+Version: 1.3-2.6
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 10556
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.c9y6h.flexlist_1.3-2.deb
+Size: 2151872
+MD5sum: 7afc69cfa566d1344259df604cbe4c5d
+SHA1: 88ff1df9ff481d9578640c93f4f9a12800187af6
+SHA256: fb943588eea34539ff4941da6e5009c02a07d64f47b9366bee1cb35ae78ff571
+Section: 插件
+Description: FLEXList是调用FLEX进行应用分析的工具，支持状态栏快捷唤出，支持设置列表启用/禁用，支持桌面3D启用/禁用
+Author: Netskao
+Depiction: https://repo.c9y6h.top/ms.html
+Icon: https://repo.c9y6h.top/icon.png
+Name: FLEXList
+Sileodepiction: https://repo.c9y6h.top/ms.json
+
+Package: com.c9y6h.frameios14
+Version: 2.4.2
+Architecture: iphoneos-arm
+Maintainer: Zerui Chen
+Installed-Size: 8332
+Depends: mobilesubstrate,preferenceloader,firmware (>= 14.0.0)
+Filename: ./debs/com.cydiabc.frameios14_2.4.deb
+Size: 1261228
+MD5sum: 72d1fcd0a33bf4c1b87d9d24d3a318c4
+SHA1: 51846ebe6100970d4fa883622d1a99d786de3136
+SHA256: 49d84d1ac508a13f5ac85b638682ed4d4d1feda235686e870f45c3a7ea5859a3
+Section: 插件
+Description: 主屏幕添加视频为墙纸，本版本兼容14.0以上系统<br>特别说明：如提示权限错误，请在使用Filza在/var/mobile/Documents新建一个文件夹com.ZX02.Frame<br>点击右侧感叹号，点击暂停，修改上方权限为0777保存即可解决！
+A12: 1
+Author: Zerui Chen
+Depiction: https://repo.c9y6h.top/ms.html
+Icon: https://repo.c9y6h.top/icon.png
+Name: Frame (iOS14)视频墙纸
+Sileodepiction: https://repo.c9y6h.top/ms.json
+Sponsor: Ai-小苹果™
+
+Package: com.c9y6h.hynoads
+Version: 1.1-2
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 356
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debs/com.c9y6h.hynoads_1.deb
+Size: 80688
+MD5sum: c93d77c3b5612069463c0446a47bfc4d
+SHA1: 834679ffc5571b435347334c0df48ba165a77a6d
+SHA256: dff7470d6d1f28ffa6aad9497740c967f405a0eed8625750ec92edf30a2a4203
+Section: 应用
+Description: 火萤去除启动广告，去除所有信息流中广告，解除视频/图片/动态壁纸保存限制
+Author: Netskao
+Depiction: https://repo.c9y6h.top/ms.html
+Icon: https://repo.c9y6h.top/icon.png
+Name: 火萤 NoAds
+Sileodepiction: https://repo.c9y6h.top/ms.json
+
+Package: com.c9y6h.jdnoads
+Version: 1.1-5
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 356
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debs/com.c9y6h.jdnoads_1.deb
+Size: 86736
+MD5sum: deefe4eb279b399a23fb7a8326a456ec
+SHA1: 118fa327a77d8e104d64e92ea5d35d6e749ae928
+SHA256: f655917acc0e31d10bdf9c79f699f94af9b7b9e48c3153eefe5d314c880b1568
+Section: 应用
+Description: 京东去除启动广告，去除搜索列表中广告商品，去除首页信息流中滚动横幅，去除首页信息流中618精选会场，去除首页下拉活动，去除首页右下角悬浮窗，去除分类页面顶部横幅，去除发现页面顶部横幅，去除购物车推荐商品，去除我的页面精选推荐(其他模块自带可关闭)，去除随机弹出的推广窗口，增加长按保存商品视频和评论视频
+Author: Netskao
+Depiction: https://repo.c9y6h.top/ms.html
+Icon: https://repo.c9y6h.top/icon.png
+Name: 京东 NoAds
+Sileodepiction: https://repo.c9y6h.top/ms.json
+
+Package: com.c9y6h.killapps
+Version: 1.1-8
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 488
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.c9y6h.killapps_1.deb
+Size: 108432
+MD5sum: aef80f7ef8eeaed4d75c2843f653772e
+SHA1: e50373d908179873e69d1ae73f8f7ef0f463a8f5
+SHA256: 320a571f8a62b0c4d5640a19c5b1deaeaf2895abef431d418d74de67dcdc9c17
+Section: 插件
+Description: 给后台切换器添加长按卡片或下滑卡片清除所有后台，支持选择清除白名单，支持选择禁止上滑黑名单等
+Author: Netskao
+Depiction: https://repo.c9y6h.top/ms.html
+Icon: https://repo.c9y6h.top/icon.png
+Name: KillApps
 Sileodepiction: https://repo.c9y6h.top/ms.json
 
 Package: com.c9y6h.nfcwriterxs
@@ -94,6 +328,45 @@ Icon: https://repo.c9y6h.top/icon.png
 Name: Orion汉化版
 Sileodepiction: https://repo.c9y6h.top/ms.json
 
+Package: com.c9y6h.pullclearnc
+Version: 1.1-6
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 136
+Depends: firmware (>= 13.0), mobilesubstrate
+Filename: ./debs/com.c9y6h.pullclearnc_1.deb
+Size: 8148
+MD5sum: 68eb11a61521d3cb5f1582ad72707628
+SHA1: 509034b862b2676bfb04f5b3efd8835ab0777956
+SHA256: d27503ca9c2c52a4bb090349f56ca6d988624bd8c0eb456edf8c725ee30bc795
+Section: 插件
+Description: 轻量级下拉清理通知，通知栏快速下拉即可清理，并显示清理成功几条
+Author: Netskao
+Depiction: https://repo.c9y6h.top/ms.html
+Icon: https://repo.c9y6h.top/icon.png
+Name: PullClearNC
+Sileodepiction: https://repo.c9y6h.top/ms.json
+
+Package: com.c9y6h.qqpurification
+Version: 1.9-1.3
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 556
+Depends: mobilesubstrate, firmware (>= 9.0)
+Replaces: netskao.qqpure
+Filename: ./debs/com.c9y6h.qqpurification_1.9-1.deb
+Size: 158916
+MD5sum: 206e844aba75eeb256b7ce357a1ced3f
+SHA1: 03112c1843c8af8521c06808b92cf37560c2e093
+SHA256: 62d9eb079f8692738cc737bfdae9f61740e46119212ef710d65061c346609c63
+Section: 应用
+Description: QQ净化，还原聊天本质，干净的QQ给你，设置位于QQ-设置页面顶部，仅支持8.7.5及以上版本
+Author: Netskao
+Depiction: https://repo.c9y6h.top/ms.html
+Icon: https://repo.c9y6h.top/icon.png
+Name: QQ净化
+Sileodepiction: https://repo.c9y6h.top/ms.json
+
 Package: com.c9y6h.sbhelper
 Version: 0.0.1
 Architecture: iphoneos-arm
@@ -111,6 +384,47 @@ Depiction: https://repo.c9y6h.top/ms.html
 Icon: https://repo.c9y6h.top/icon.png
 Name: sbhelper
 Sileodepiction: https://repo.c9y6h.top/ms.json
+
+Package: com.c9y6h.smallbanners
+Version: 1.2-2
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 272
+Depends: mobilesubstrate, firmware (>= 13.0)
+Conflicts: it.dreamcode.picobanners2, netskao.picobanners2
+Filename: ./debs/com.c9y6h.smallbanners_1.deb
+Size: 55736
+MD5sum: 0aba54106e747bfc8be1f17a9642c980
+SHA1: d1cdc5c71739af6995cebe0228597bee9ab739c3
+SHA256: 0e3f5c429876f975745510a5ef8e0a8785e76a55b9a7c546d05787bedbd3f490
+Section: 插件
+Description: Small Notification Banners. Support iOS13-14
+Author: Netskao
+Depiction: https://repo.c9y6h.top/ms.html
+Icon: https://repo.c9y6h.top/icon.png
+Name: SmallBanners
+Sileodepiction: https://repo.c9y6h.top/ms.json
+
+Package: com.c9y6h.snapper2
+Version: 2.5.11
+Architecture: iphoneos-arm
+Maintainer: c9y6h
+Installed-Size: 1840
+Depends: mobilesubstrate, firmware(>=12.1)
+Conflicts: com.jontelang.snapper, com.jontelang.snapper2
+Filename: ./debs/com.cydiabc.snapper2_2.5.deb
+Size: 423372
+MD5sum: 38354457d60fe89ba6b077082852b06d
+SHA1: d72d341c52a2b02171d68144c2dcddef27570888
+SHA256: b2c0db2486915595550fe6c3493498a8a14c9a628376e2276fe393ceddad84ad
+Section: 插件
+Description: 屏幕截图增强 自定义截图区域
+Author: Jonathan Winger-lang
+Depiction: https://repo.c9y6h.top/ms.html
+Icon: https://repo.c9y6h.top/icon.png
+Name: Snapper 2智能截图
+Sileodepiction: https://repo.c9y6h.top/ms.json
+Sponsor: c9y6h
 
 Package: com.c9y6h.storesenior
 Version: 0.0.1
@@ -147,6 +461,26 @@ Depiction: https://repo.c9y6h.top/ms.html
 Icon: https://repo.c9y6h.top/icon.png
 Name: 腾讯手机管家+
 Sileodepiction: https://repo.c9y6h.top/ms.json
+
+Package: com.c9y6h.wechatpurification
+Version: 2.0-5.2
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 542
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.c9y6h.wechatpurification_2.0-5.2_iphoneos-arm.deb
+Size: 169060
+MD5sum: 0e1a588514f8d786f7a2e8705a25990e
+SHA1: 1b9ffcc1f42d679b8695f81a881ec7b56d5cfbbb
+SHA256: 92be03d70dce127f8cddcd13742608f768deb549e063a98d01067fce91b91672
+Section: 应用
+Description: 微信净化，还原聊天本质，干净的微信给你，支持7.0.0及以上版本，设置位于微信-设置
+Author: Netskao <admin@initnil.com>
+Depiction: https://repo.c9y6h.top/ms.html
+Icon: https://repo.c9y6h.top/icon.png
+Name: 微信净化
+Sileodepiction: https://repo.c9y6h.top/ms.json
+Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.c9y6h.wyy
 Version: 0.0.1
@@ -277,4 +611,24 @@ Depiction: https://repo.c9y6h.top/ms.html
 Icon: https://repo.c9y6h.top/icon.png
 Name: Zk助手+
 Sileodepiction: https://repo.c9y6h.top/ms.json
+
+Package: com.c9y6h.zsht
+Version: 0.1.4
+Architecture: iphoneos-arm
+Maintainer: c9y6h
+Installed-Size: 244
+Depends: firmware (>= 13.0), mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/com.c9y6h.zsht_0.1.4_iphoneos-arm.deb
+Size: 9880
+MD5sum: ba0c8c6ab88a0ed3120fa94b74881a9e
+SHA1: 022567faea0e6fdf2e113165213e9d54319d5da9
+SHA256: 1ac4d0336f11348337faa1900f7eadac1fbd199c4f4b517daee0aa01b8fda53e
+Section: 系统
+Description: 真后台插件
+Author: akusio
+Depiction: https://repo.c9y6h.top/ms.html
+Icon: https://repo.c9y6h.top/icon.png
+Name: 控制中心真后台
+Sileodepiction: https://repo.c9y6h.top/ms.json
+Sponsor: akusio
 
