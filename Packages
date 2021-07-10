@@ -5,15 +5,17 @@ Maintainer: c9y6h
 Installed-Size: 136
 Depends: mobilesubstrate
 Filename: ./debs/com.c9y6h.bdpan_0.0.1_iphoneos-arm.deb
-Size: 3864
-MD5sum: aadf1a07486c3e873b51c84951d56620
-SHA1: 283f158b441fbb0acd411fd07a8550d55da93462
-SHA256: e85947f1f2fc934591e0b6843ed813b1e7a2abc55e3ee2ff3fd9248b5f2e7973
-Section: Tweaks
+Size: 3892
+MD5sum: 4c3b8621bd33a7872a63d29b001a9893
+SHA1: 0f5be967ed7720be0d44583aea0eb45e94fe55c1
+SHA256: 6baf6cd12243ed3a44ca2641df6009a85cf8ae154f94d53bc2e33efd58fe096c
+Section: 应用
 Description: 破解百度网盘本地vip以及精简界面
 Author: c9y6h
+Depiction: https://repo.c9y6h.top/ms.html
 Icon: https://repo.c9y6h.top/icon.png
 Name: 百度网盘+
+Sileodepiction: https://repo.c9y6h.top/ms.json
 
 Package: com.c9y6h.diary
 Version: 1.0
@@ -23,51 +25,55 @@ Installed-Size: 5480
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.mrgcgamer.libgcuniversal, com.peterdev.libpddokdo
 Conflicts: hi.my.name.is.ubik.kalm, com.peterdev.grupi
 Filename: ./debs/com.c9y6h.diary_1.0_iphoneos-arm.deb
-Size: 2523756
-MD5sum: 2757fc55010cc700729ea3de9b1441c0
-SHA1: a353a2a92ff0f72fd249f4c1a24b72ce54ce8119
-SHA256: 4cf12aa20dc5d90011a87297e8baf4e8b93c38240e1fc31a624a3ca6e3cd049f
-Section: Tweaks
-Description: Dear diary..
+Size: 2523776
+MD5sum: 6c88938f7738adeaff1f83fd8d9a9331
+SHA1: 618ced1df7c8357e5b5d9976924fc44236f095fe
+SHA256: daf8f19735d7fed80308b991af63868a02bd7545738f58b8c435a505ed1954be
+Section: 插件
+Description: 类似win10锁屏
 Author: Litten
-Depiction: https://repo.litten.love/depictions/dry/index.html
-Icon: https://repo.litten.love/depictions/dry/assets/icon.png
-Name: Diary win10锁屏汉化版
-Sileodepiction: https://repo.litten.love/depictions/dry/dry.json
+Depiction: https://repo.c9y6h.top/ms.html
+Icon: https://repo.c9y6h.top/icon.png
+Name: Diary汉化版
+Sileodepiction: https://repo.c9y6h.top/ms.json
+
+Package: com.c9y6h.dra1n
+Version: 1.4.3
+Architecture: iphoneos-arm
+Maintainer: MegaDev & Amy While
+Installed-Size: 4000
+Depends: mobilesubstrate, firmware(>=12.2) | org.swift.libswift (>=5.0), ws.hbang.common,preferenceloader, com.cokepokes.libnotifications (>= 0.2-2)
+Conflicts: com.megadev.dra1n, com.amywhile.dra1n
+Filename: ./debs/com.c9y6h.dra1n_1.4.3_iphoneos-arm.deb
+Size: 1763796
+MD5sum: c7a10e9e1f888293a5f78bc3a7e0e9ad
+SHA1: 7867581bad22c8a39202394d482d513b5efe607e
+SHA256: f71c3034dca4f6b07ced70f63a6482efb6418bfc128bb2c9734112b0253c7120
+Section: 插件
+Description: 找出耗电的插件
+Author: MegaDev & Amy While
+Depiction: https://repo.c9y6h.top/ms.html
+Name: Dra1n汉化版
+Sileodepiction: https://repo.c9y6h.top/ms.json
 
 Package: com.c9y6h.nfcwriterxs
-Version: 3.2-77+debug
+Version: 3.2-77
 Architecture: iphoneos-arm
 Maintainer: Elias Limneos
 Depends: firmware (>= 11.0), mobilesubstrate, net.limneos.libbulletin
 Conflicts: net.limneos.nfcwriterx
-Filename: ./debs/com.c9y6h.nfcwriterxs_3.2-77+debug_iphoneos-arm.deb
-Size: 756344
-MD5sum: d1e8e5c8a8a805f93a48065b653efafd
-SHA1: 8a4155ed5bb323fa744e1ff125615a64e48943f5
-SHA256: 7ad7beea490aadb322fd7c66330a3641eebe291b0319de47bd1b84a2428339eb
-Section: Tweaks
-Description: 激活ios设备nfc功能
+Filename: ./debs/com.c9y6h.nfcwriterxs_3.2-77_iphoneos-arm.deb
+Size: 758064
+MD5sum: efa8ddd31eabc5537fb051ce1d2b2eb1
+SHA1: f11fbbbbadc65f8db14ffaff910c1cb50dd7f31f
+SHA256: 2fa7da791fd51e38ab0fea12fba0fc234fed3a4120df2ae5262bece81184980d
+Section: 工具
+Description: 让ios设备使用nfc功能
 Author: Elias Limneos
+Depiction: https://repo.c9y6h.top/ms.html
 Icon: https://repo.c9y6h.top/icon.png
 Name: NFCWriter XS汉化破解版
-
-Package: com.c9y6h.ngpj
-Version: 0.0.1
-Architecture: iphoneos-arm
-Maintainer: c9y6h
-Installed-Size: 144
-Depends: mobilesubstrate
-Filename: ./debs/com.c9y6h.ngpj_0.0.1_iphoneos-arm.deb
-Size: 7644
-MD5sum: 52d6c744419dbc31c0d32cf1f8eda34f
-SHA1: b24d4eb5a59b46e1dde6e7c70638bcf9a945670b
-SHA256: f1124060da9ed638b84868a6bc10498f9a87ca81f7971548dbc54f98d8f2f89a
-Section: Tweaks
-Description: 顾名思义，通常适用于一些单机app
-Author: c9y6h
-Icon: https://repo.c9y6h.top/icon.png
-Name: 内购破解
+Sileodepiction: https://repo.c9y6h.top/ms.json
 
 Package: com.c9y6h.orion
 Version: 1.2
@@ -76,32 +82,71 @@ Maintainer: c9y6h
 Installed-Size: 8777
 Depends: firmware (>=13.0), firmware (<<15.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.16), com.opa334.ccsupport, net.limneos.libbulletin (>= 0.1-158), firmware (<=13.7) | com.opa334.libundirect (>= 1.1.1), com.spark.libsparkcolourpicker (>= 1.0.2) | com.creaturesurvive.libcscolorpicker (>= 1.0.1) | ws.hbang.alderis (>= 1.1.2), com.spark.libsparkapplist
 Filename: ./debs/com.c9y6h.orion_1.2_iphoneos-arm.deb
-Size: 1896596
-MD5sum: 590aa53c5a637fbc8ba5eea8daff4cbb
-SHA1: 68e875389d3058a69c0d4dc2056484b0fe878c41
-SHA256: dceaf9260907549111ff7740de5159035545cc996c11c9f7a4c1bf43422fce7e
-Section: Tweaks
-Description: 一款神级系统调整插件，已汉化处理
+Size: 1897808
+MD5sum: ff496827421a64ba4d37822a238544d5
+SHA1: 57bc4b4394536b05e97b20f043d3e566214826f2
+SHA256: 4bcff29d4cb4f4409a8d06aa1432c367e4fc000b0d3de01ae59d128fa16fc3f0
+Section: 插件
+Description: 一款神级系统调整插件
 Author: John Zarogiannis <johnzrgnns@gmail.com>
-Icon: https://chariz.com/cdn/icon/orion/icon@3x.png
+Depiction: https://repo.c9y6h.top/ms.html
+Icon: https://repo.c9y6h.top/icon.png
 Name: Orion汉化版
+Sileodepiction: https://repo.c9y6h.top/ms.json
+
+Package: com.c9y6h.sbhelper
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: c9y6h
+Depends: mobilesubstrate
+Filename: ./debs/com.c9y6h.sbhelper_0.0.1_iphoneos-arm.deb
+Size: 17528
+MD5sum: f8453c9eff23a3b82a6f0a8aa143551f
+SHA1: 034c0e26118b01f6798e80843ddae79b3e7202b8
+SHA256: 21bfc5e284ee973f8631b1bd09ac3307a3acef49193b0bb2b3b41c9b1347eb49
+Section: 插件
+Description: 一个springboard的小玩具
+Author: c9y6h
+Depiction: https://repo.c9y6h.top/ms.html
+Icon: https://repo.c9y6h.top/icon.png
+Name: sbhelper
+Sileodepiction: https://repo.c9y6h.top/ms.json
+
+Package: com.c9y6h.storesenior
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: c9y6h
+Depends: mobilesubstrate
+Filename: ./debs/com.c9y6h.storesenior_0.0.1_iphoneos-arm.deb
+Size: 34508
+MD5sum: 58b6e4b623909198e31050dcfca86194
+SHA1: 455fc73a8def6181f5a5eab38228d7ce66ded631
+SHA256: cb8301b3ede421a189dc237bb7cc5b4e799c802d6010e6ca71adeed2408cc155
+Section: 应用
+Description: appstore账号快捷切换
+Author: c9y6h
+Depiction: https://repo.c9y6h.top/ms.html
+Icon: https://repo.c9y6h.top/icon.png
+Name: storesenior
+Sileodepiction: https://repo.c9y6h.top/ms.json
 
 Package: com.c9y6h.txsjgj
 Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: c9y6h
-Installed-Size: 136
 Depends: mobilesubstrate
 Filename: ./debs/com.c9y6h.txsjgj_0.0.1_iphoneos-arm.deb
-Size: 3514
-MD5sum: 29ebd27b1067bb4fc20b07c95e660b88
-SHA1: 89624b62425c3d1a5ee7eb7bbc130339fdf9e42b
-SHA256: b921c7cb47cd9a6eb2630caf1f7e787b964ec7a971601e96cb13bef8985307ea
-Section: Tweaks
-Description: 去开屏广告以及精简界面
+Size: 3596
+MD5sum: 8616badf2cbb4ee2095e6e1776bb6656
+SHA1: d3f6b5202b3693c1ed1f3808938c77f5a2f4a5f2
+SHA256: 69d8263929986a18d964d9208b9b47d2a55a891ef5f2330450f31d9024b27ec3
+Section: 应用
+Description: 去广告以及精简界面
 Author: c9y6h
+Depiction: https://repo.c9y6h.top/ms.html
 Icon: https://repo.c9y6h.top/icon.png
 Name: 腾讯手机管家+
+Sileodepiction: https://repo.c9y6h.top/ms.json
 
 Package: com.c9y6h.wyy
 Version: 0.0.1
@@ -110,15 +155,71 @@ Maintainer: c9y6h
 Installed-Size: 136
 Depends: mobilesubstrate
 Filename: ./debs/com.c9y6h.wyy_0.0.1_iphoneos-arm.deb
-Size: 3380
-MD5sum: 990130625cc1c93b478da7db82454eb4
-SHA1: 358bb00cb689db9b2b4ab4ceeb04108dc723c772
-SHA256: 31b00c7e3398d5b04a158f842db8431acfb9f20e576e92c68c5a655bd67386cf
-Section: Tweaks
+Size: 3404
+MD5sum: 3263f667f7cfe2813be4b4303d02ed39
+SHA1: 4da85c4121485e8cd3383a97c4fd8195c27bc8e0
+SHA256: e08557d2c362dbd80fc1b214fdef491188ef102bdf3ac3e6f03f82437f4a96fd
+Section: 应用
 Description: 去广告以及破解会员音效
 Author: c9y6h
+Depiction: https://repo.c9y6h.top/ms.html
 Icon: https://repo.c9y6h.top/icon.png
 Name: 网易云音乐+
+Sileodepiction: https://repo.c9y6h.top/ms.json
+
+Package: com.c9y6h.wzsj15
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: c9y6h
+Depends: mobilesubstrate
+Filename: ./debs/com.c9y6h.wzsj15_0.0.1_iphoneos-arm.deb
+Size: 242200
+MD5sum: 25deb42085a03b4fbc3bce79c365bc79
+SHA1: 1a4641de044033ccd077e67b17d13505ab264526
+SHA256: 77c0a52513b33e4232e19ec922712c0c9a2324c2e5934602dc08a68c0c6af514
+Section: 游戏
+Description: 游戏中开高清画质生效
+Author: c9y6h
+Depiction: https://repo.c9y6h.top/ms.html
+Icon: https://repo.c9y6h.top/icon.png
+Name: 王者荣耀视距1.5倍
+Sileodepiction: https://repo.c9y6h.top/ms.json
+
+Package: com.c9y6h.wzsj233
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: c9y6h
+Depends: mobilesubstrate
+Filename: ./debs/com.c9y6h.wzsj233_0.0.1_iphoneos-arm.deb
+Size: 242252
+MD5sum: f9623e14dcdb9b20f7c00387dd83017d
+SHA1: 0f215b210491cbfc12e420e1736a511d274822b9
+SHA256: 043005abc3140a71a674143c2f1418d36d0252ffb6d541346beb59fbffbbfec6
+Section: 游戏
+Description: 游戏中开高清画质生效
+Author: c9y6h
+Depiction: https://repo.c9y6h.top/ms.html
+Icon: https://repo.c9y6h.top/icon.png
+Name: 王者荣耀视距2.33倍
+Sileodepiction: https://repo.c9y6h.top/ms.json
+
+Package: com.c9y6h.wzsj4
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: c9y6h
+Depends: mobilesubstrate
+Filename: ./debs/com.c9y6h.wzsj4_0.0.1_iphoneos-arm.deb
+Size: 242188
+MD5sum: bdfb7ea57cb9506def9248c08e0ed09e
+SHA1: c8029cb0f0033e47316bc7fb3434b8ff1eb0a56f
+SHA256: d01a38c1664ccf6d21ade4c58568ebdc4f5a38acdba2913c2eb44d32ef5d4744
+Section: 游戏
+Description: 游戏中开高清画质生效
+Author: c9y6h
+Depiction: https://repo.c9y6h.top/ms.html
+Icon: https://repo.c9y6h.top/icon.png
+Name: 王者荣耀视距4倍
+Sileodepiction: https://repo.c9y6h.top/ms.json
 
 Package: com.c9y6h.xxy
 Version: 0.0.1
@@ -127,15 +228,17 @@ Maintainer: c9y6h
 Installed-Size: 136
 Depends: mobilesubstrate
 Filename: ./debs/com.c9y6h.xxy_0.0.1_iphoneos-arm.deb
-Size: 2860
-MD5sum: 41904336b0a3a112597185c322e2afcc
-SHA1: b9eb293c917a97f2288862d81a3179c4f35f5e1f
-SHA256: 8246b524b027a4986d1f70c58b8f9eebeab999b31be5b3646f21ebd870ff64dd
-Section: Tweaks
+Size: 2888
+MD5sum: 5a1f569e8294f514fe5ce9cc0ebd1751
+SHA1: 00818e7f645e00f45a13eec1cf4a10461da17b66
+SHA256: e2ab15ea6e0fd07b35f3f7d5d05d2b2149021e29e8d371b460fcf312c313a0c8
+Section: 应用
 Description: 学小易绕过越狱检测
 Author: c9y6h
+Depiction: https://repo.c9y6h.top/ms.html
 Icon: https://repo.c9y6h.top/icon.png
 Name: 学小易+
+Sileodepiction: https://repo.c9y6h.top/ms.json
 
 Package: com.c9y6h.ydfyg
 Version: 0.0.1
@@ -144,15 +247,17 @@ Maintainer: c9y6h
 Installed-Size: 136
 Depends: mobilesubstrate
 Filename: ./debs/com.c9y6h.ydfyg_0.0.1_iphoneos-arm.deb
-Size: 3044
-MD5sum: ea7e566ff737b20c2306c293fdaacdde
-SHA1: 78c13c3ad182abd75accdd1f9141189ce740710f
-SHA256: 1f8a6df6ab146e2f7da4bfbdff04b0f5b4eaaf8673ef39ffcd7c74315476f2ae
-Section: Tweaks
-Description: 去所有广告以及精简界面
+Size: 3064
+MD5sum: 2e58a10b103fed88869261ce5eabc099
+SHA1: 4d8633add01be6be4a3876939391181ab046d2a1
+SHA256: 38d082f33e069d912e9ee719f00412ebb2bbc2ff8ae923c2bf4c2a4f733e6619
+Section: 应用
+Description: 去广告以及精简界面
 Author: c9y6h
+Depiction: https://repo.c9y6h.top/ms.html
 Icon: https://repo.c9y6h.top/icon.png
 Name: 有道翻译官+
+Sileodepiction: https://repo.c9y6h.top/ms.json
 
 Package: com.c9y6h.zkzs
 Version: 0.0.1
@@ -161,13 +266,15 @@ Maintainer: c9y6h
 Installed-Size: 136
 Depends: mobilesubstrate
 Filename: ./debs/com.c9y6h.zkzs_0.0.1_iphoneos-arm.deb
-Size: 2848
-MD5sum: 91abd676c136551343b094a5b0953ec2
-SHA1: 9820d58de6935d91eaf81431e56c035fa05e3aea
-SHA256: c152a73daf300eb722a09a952bc309d75703776a805d2334dc91488263ba967c
-Section: Tweaks
-Description: ZK助手去广告
+Size: 2868
+MD5sum: 3da1a72aca196058d942154a6daad295
+SHA1: 793c311e191844a8343b1310afb31e89a97b7758
+SHA256: a61feb4b4496887b485d57c457147e223beadd8215b1329031d0193b8a4765e0
+Section: 应用
+Description: 破解vip
 Author: c9y6h
+Depiction: https://repo.c9y6h.top/ms.html
 Icon: https://repo.c9y6h.top/icon.png
 Name: Zk助手+
+Sileodepiction: https://repo.c9y6h.top/ms.json
 
