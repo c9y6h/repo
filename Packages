@@ -36,25 +36,6 @@ Icon: https://repo.c9y6h.top/icon.png
 Name: 支付宝 NoAds
 Sileodepiction: https://repo.c9y6h.top/ms.json
 
-Package: com.c9y6h.appdata
-Version: 1.3.6-5
-Architecture: iphoneos-arm
-Maintainer: Nets
-Installed-Size: 976
-Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
-Filename: ./debs/com.c9y6h.appdata_1.3.deb
-Size: 203424
-MD5sum: f7d608999b3350f944cfcb3d93f56e23
-SHA1: 7755548802f66a59ab23accecbed0457e95a9e9a
-SHA256: c57a796aa93f47b314ffb0c20cf53678e3eca5dd138cef6b57dcf98cd8e84273
-Section: 系统
-Description: 桌面上滑或下滑图标或3D长按选择即可唤出桌面应用快捷工具，类似IconTool，此版本由站长完整汉化，修改优化:增加支持向下滑动，增加查看应用加密状态，增加面板可选去除分割线，修改原版卸载应用为真实卸载不保留数据，修复原版更多信息页面长按复制的信息错误问题，修改原版在非AppStore下载的应用唤出时无法使用清除数据/重置权限/卸载应用(修改后仅在系统应用上禁止)
-Author: Fouad Raheb
-Depiction: https://repo.c9y6h.top/ms.html
-Icon: https://repo.c9y6h.top/icon.png
-Name: AppData
-Sileodepiction: https://repo.c9y6h.top/ms.json
-
 Package: com.c9y6h.bdpan
 Version: 0.0.1
 Architecture: iphoneos-arm
@@ -74,23 +55,22 @@ Icon: https://repo.c9y6h.top/icon.png
 Name: 百度网盘+
 Sileodepiction: https://repo.c9y6h.top/ms.json
 
-Package: com.c9y6h.bilibilinoads
-Version: 1.4-6
+Package: com.c9y6h.bilibilijh
+Version: 0.0.1
 Architecture: iphoneos-arm
-Maintainer: Nets
-Installed-Size: 424
-Depends: firmware (>= 9.0), mobilesubstrate
-Filename: ./debs/com.c9y6h.bilibilinoads_1.deb
-Size: 115572
-MD5sum: c90664e343b56bf93f4d1a0950b154e7
-SHA1: 887b33ea20c7d6f58ce42eaf6cb40fc5286d8fa3
-SHA256: 12d70157a7f8087d6db3ae6a6ab8a82c14684f40f2e348c9249c3b20c35d7c96
+Maintainer: c9y6h
+Depends: mobilesubstrate
+Filename: ./debs/com.c9y6h.bilibilijh_0.0.1_iphoneos-arm.deb
+Size: 108772
+MD5sum: eacebab4de7ba93547eb3c96f4d28e5f
+SHA1: 16ac95119f4ec8ef58290029bef43a6697c1b493
+SHA256: eb2d624659680d680c045078638d1306c6dd9b9e29ce371caf60fadc06b8d303
 Section: 应用
-Description: 哔哩哔哩，哔哩哔哩概念去除启动广告，去除首页推荐视频中的广告和直播和顶部广告，去除播放窗口下方随机出现的广告，去除播放页面推荐视频中随机出现的广告和课程，去除动态信息流中的广告，去除青少年提示，禁用越狱检测(检测状态表现为购买大会员开通失败)，可选禁用底部按钮，可选禁用我的页面板块等，详情前往哔哩哔哩设置页面右上角设置
-Author: Netskao
+Description: 精简哔哩哔哩
+Author: netskao
 Depiction: https://repo.c9y6h.top/ms.html
 Icon: https://repo.c9y6h.top/icon.png
-Name: 哔哩哔哩 NoAds
+Name: 哔哩哔哩净化
 Sileodepiction: https://repo.c9y6h.top/ms.json
 
 Package: com.c9y6h.ccpower
@@ -133,19 +113,19 @@ Name: 菜鸟 NoAds
 Sileodepiction: https://repo.c9y6h.top/ms.json
 
 Package: com.c9y6h.diary
-Version: 1.0
+Version: 1.1.1
 Architecture: iphoneos-arm
 Maintainer: Litten
 Installed-Size: 5480
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.mrgcgamer.libgcuniversal, com.peterdev.libpddokdo
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.mrgcgamer.libgcuniversal, com.peterdev.libpddokdo,love.litten.libkitten
 Conflicts: hi.my.name.is.ubik.kalm, com.peterdev.grupi
-Filename: ./debs/com.c9y6h.diary_1.0_iphoneos-arm.deb
-Size: 2523776
-MD5sum: 6c88938f7738adeaff1f83fd8d9a9331
-SHA1: 618ced1df7c8357e5b5d9976924fc44236f095fe
-SHA256: daf8f19735d7fed80308b991af63868a02bd7545738f58b8c435a505ed1954be
+Filename: ./debs/com.c9y6h.diary_1.1.1_iphoneos-arm.deb
+Size: 3029692
+MD5sum: 1989731b148227324c2c21069a654dae
+SHA1: 8fc6eec7c002c7b8d32f7974cc331b1185af4f1e
+SHA256: 3e9eda0cc722089e476180f57a4d9ea339fb535773b12153b3da7e6bfebddc7f
 Section: 插件
-Description: 类似win10锁屏
+Description: 类似win10锁屏，需要前往https://repo.litten.love下载依赖
 Author: Litten
 Depiction: https://repo.c9y6h.top/ms.html
 Icon: https://repo.c9y6h.top/icon.png
@@ -271,25 +251,6 @@ Icon: https://repo.c9y6h.top/icon.png
 Name: 京东 NoAds
 Sileodepiction: https://repo.c9y6h.top/ms.json
 
-Package: com.c9y6h.killapps
-Version: 1.1-8
-Architecture: iphoneos-arm
-Maintainer: Nets
-Installed-Size: 488
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
-Filename: ./debs/com.c9y6h.killapps_1.deb
-Size: 108432
-MD5sum: aef80f7ef8eeaed4d75c2843f653772e
-SHA1: e50373d908179873e69d1ae73f8f7ef0f463a8f5
-SHA256: 320a571f8a62b0c4d5640a19c5b1deaeaf2895abef431d418d74de67dcdc9c17
-Section: 插件
-Description: 给后台切换器添加长按卡片或下滑卡片清除所有后台，支持选择清除白名单，支持选择禁止上滑黑名单等
-Author: Netskao
-Depiction: https://repo.c9y6h.top/ms.html
-Icon: https://repo.c9y6h.top/icon.png
-Name: KillApps
-Sileodepiction: https://repo.c9y6h.top/ms.json
-
 Package: com.c9y6h.nfcwriterxs
 Version: 3.2-77
 Architecture: iphoneos-arm
@@ -326,45 +287,6 @@ Author: John Zarogiannis <johnzrgnns@gmail.com>
 Depiction: https://repo.c9y6h.top/ms.html
 Icon: https://repo.c9y6h.top/icon.png
 Name: Orion汉化版
-Sileodepiction: https://repo.c9y6h.top/ms.json
-
-Package: com.c9y6h.pullclearnc
-Version: 1.1-6
-Architecture: iphoneos-arm
-Maintainer: Nets
-Installed-Size: 136
-Depends: firmware (>= 13.0), mobilesubstrate
-Filename: ./debs/com.c9y6h.pullclearnc_1.deb
-Size: 8148
-MD5sum: 68eb11a61521d3cb5f1582ad72707628
-SHA1: 509034b862b2676bfb04f5b3efd8835ab0777956
-SHA256: d27503ca9c2c52a4bb090349f56ca6d988624bd8c0eb456edf8c725ee30bc795
-Section: 插件
-Description: 轻量级下拉清理通知，通知栏快速下拉即可清理，并显示清理成功几条
-Author: Netskao
-Depiction: https://repo.c9y6h.top/ms.html
-Icon: https://repo.c9y6h.top/icon.png
-Name: PullClearNC
-Sileodepiction: https://repo.c9y6h.top/ms.json
-
-Package: com.c9y6h.qqpurification
-Version: 1.9-1.3
-Architecture: iphoneos-arm
-Maintainer: Nets
-Installed-Size: 556
-Depends: mobilesubstrate, firmware (>= 9.0)
-Replaces: netskao.qqpure
-Filename: ./debs/com.c9y6h.qqpurification_1.9-1.deb
-Size: 158916
-MD5sum: 206e844aba75eeb256b7ce357a1ced3f
-SHA1: 03112c1843c8af8521c06808b92cf37560c2e093
-SHA256: 62d9eb079f8692738cc737bfdae9f61740e46119212ef710d65061c346609c63
-Section: 应用
-Description: QQ净化，还原聊天本质，干净的QQ给你，设置位于QQ-设置页面顶部，仅支持8.7.5及以上版本
-Author: Netskao
-Depiction: https://repo.c9y6h.top/ms.html
-Icon: https://repo.c9y6h.top/icon.png
-Name: QQ净化
 Sileodepiction: https://repo.c9y6h.top/ms.json
 
 Package: com.c9y6h.sbhelper
@@ -461,26 +383,6 @@ Depiction: https://repo.c9y6h.top/ms.html
 Icon: https://repo.c9y6h.top/icon.png
 Name: 腾讯手机管家+
 Sileodepiction: https://repo.c9y6h.top/ms.json
-
-Package: com.c9y6h.wechatpurification
-Version: 2.0-5.2
-Architecture: iphoneos-arm
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 542
-Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.c9y6h.wechatpurification_2.0-5.2_iphoneos-arm.deb
-Size: 169060
-MD5sum: 0e1a588514f8d786f7a2e8705a25990e
-SHA1: 1b9ffcc1f42d679b8695f81a881ec7b56d5cfbbb
-SHA256: 92be03d70dce127f8cddcd13742608f768deb549e063a98d01067fce91b91672
-Section: 应用
-Description: 微信净化，还原聊天本质，干净的微信给你，支持7.0.0及以上版本，设置位于微信-设置
-Author: Netskao <admin@initnil.com>
-Depiction: https://repo.c9y6h.top/ms.html
-Icon: https://repo.c9y6h.top/icon.png
-Name: 微信净化
-Sileodepiction: https://repo.c9y6h.top/ms.json
-Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.c9y6h.wyy
 Version: 0.0.1
