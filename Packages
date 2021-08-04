@@ -36,19 +36,36 @@ Icon: https://repo.c9y6h.top/icon.png
 Name: 支付宝 NoAds
 Sileodepiction: https://repo.c9y6h.top/ms.json
 
-Package: com.c9y6h.bdpan
+Package: com.c9y6h.appdata
 Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: c9y6h
-Installed-Size: 136
 Depends: mobilesubstrate
-Filename: ./debs/com.c9y6h.bdpan_0.0.1_iphoneos-arm.deb
-Size: 3892
-MD5sum: 4c3b8621bd33a7872a63d29b001a9893
-SHA1: 0f5be967ed7720be0d44583aea0eb45e94fe55c1
-SHA256: 6baf6cd12243ed3a44ca2641df6009a85cf8ae154f94d53bc2e33efd58fe096c
+Filename: ./debs/com.c9y6h.appdata_0.0.1_iphoneos-arm.deb
+Size: 205732
+MD5sum: 37d33e909d9217d13ba826f05d679b21
+SHA1: 7f31f18259a5760bf8cfa3a4e748f58041e953eb
+SHA256: d340b2d18acb64df52d6f8f93861111d1f204606ffef9b0b52eeabe2ff0f8e40
+Section: 插件
+Description: 直接在filza中打开app数据位置
+Author: c9y6h
+Depiction: https://repo.c9y6h.top/ms.html
+Icon: https://repo.c9y6h.top/icon.png
+Name: appdata数据管理
+Sileodepiction: https://repo.c9y6h.top/ms.json
+
+Package: com.c9y6h.bdpan
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: c9y6h
+Depends: mobilesubstrate
+Filename: ./debs/com.c9y6h.bdpan_0.0.2_iphoneos-arm.deb
+Size: 3524
+MD5sum: 77c4ecda8375ee18f4725a8b44824449
+SHA1: 2a393dc63cec3800360a24cb63de463840626028
+SHA256: 59165839e5250d38262df1547dbb226be5c3859f68f3ff06aa7436251202bf44
 Section: 应用
-Description: 破解百度网盘本地vip以及精简界面
+Description: 精简界面，破解倍速
 Author: c9y6h
 Depiction: https://repo.c9y6h.top/ms.html
 Icon: https://repo.c9y6h.top/icon.png
@@ -213,6 +230,24 @@ Name: Frame (iOS14)视频墙纸
 Sileodepiction: https://repo.c9y6h.top/ms.json
 Sponsor: Ai-小苹果™
 
+Package: com.c9y6h.ftt
+Version: 0.3.6
+Architecture: iphoneos-arm
+Maintainer: c9y6h
+Depends: mobilesubstrate
+Filename: ./debs/com.c9y6h.ftt_0.3.6_iphoneos-arm.deb
+Size: 34888
+MD5sum: af1e3be832731ce1fdb407b4daaf1078
+SHA1: 8a0d5a32e5f869e4534e45c9bff36e55f81853c2
+SHA256: 948f3252d7a46f0baf96b63bd399961f34f3643997e59edb0f932f07fa643388
+Section: 插件
+Description: 直接将flex函数转化为插件源码
+Author: randy420
+Depiction: https://repo.c9y6h.top/ms.html
+Icon: https://repo.c9y6h.top/icon.png
+Name: flex to theos
+Sileodepiction: https://repo.c9y6h.top/ms.json
+
 Package: com.c9y6h.hynoads
 Version: 1.1-2
 Architecture: iphoneos-arm
@@ -230,6 +265,24 @@ Author: Netskao
 Depiction: https://repo.c9y6h.top/ms.html
 Icon: https://repo.c9y6h.top/icon.png
 Name: 火萤 NoAds
+Sileodepiction: https://repo.c9y6h.top/ms.json
+
+Package: com.c9y6h.ime
+Version: 12.1
+Architecture: iphoneos-arm
+Maintainer: c9y6h
+Depends: mobilesubstrate
+Filename: ./debs/com.c9y6h.ime_12.1_iphoneos-arm.deb
+Size: 403724
+MD5sum: c4b1d75d95f413896acb8386a7b18072
+SHA1: a6171a82b3ef2b4baab2a429460417cb280ea1c7
+SHA256: ac824c5006cd4b4c79ed183ee32012e22828b5e97e53bf570d7e673a2471b7cf
+Section: 工具
+Description: ime修改器伪装包
+Author: Aqua Wu
+Depiction: https://repo.c9y6h.top/ms.html
+Icon: https://repo.c9y6h.top/icon.png
+Name: c9y6h修改器
 Sileodepiction: https://repo.c9y6h.top/ms.json
 
 Package: com.c9y6h.jdnoads
@@ -385,16 +438,15 @@ Name: 腾讯手机管家+
 Sileodepiction: https://repo.c9y6h.top/ms.json
 
 Package: com.c9y6h.wyy
-Version: 0.0.1
+Version: 0.0.2
 Architecture: iphoneos-arm
 Maintainer: c9y6h
-Installed-Size: 136
 Depends: mobilesubstrate
-Filename: ./debs/com.c9y6h.wyy_0.0.1_iphoneos-arm.deb
-Size: 3404
-MD5sum: 3263f667f7cfe2813be4b4303d02ed39
-SHA1: 4da85c4121485e8cd3383a97c4fd8195c27bc8e0
-SHA256: e08557d2c362dbd80fc1b214fdef491188ef102bdf3ac3e6f03f82437f4a96fd
+Filename: ./debs/com.c9y6h.wyy_0.0.2_iphoneos-arm.deb
+Size: 4644
+MD5sum: 6c42092115113eb7ed78dec2296b1462
+SHA1: 6e36e7263030fd1e3b194d21f0824a30752506b2
+SHA256: 4f7d6fa4284fbd2ee2742cc8477b08fb9520c0105d385fb6d02e35cd1b474092
 Section: 应用
 Description: 去广告以及破解会员音效
 Author: c9y6h
